@@ -15,7 +15,3 @@ I'm transitioning into **Data Governance & Data Quality**, bringing with me a ba
 
 ### ✨ A bit more about me
 This is my first time creating public repositories, and I’m doing it for a field I truly love. I’m using everything from my regulatory background, documentation experience and social sciences training to enrich my work as a future Data Governance professional.
-
-### 📫 How to reach me
-📧 Email: paulaaraujoangulo@gmail.com  
-🔗 LinkedIn: *www.linkedin.com/in/paula-araujo-angulo*
